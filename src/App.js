@@ -54,6 +54,7 @@ export default function App() {
   );
 }
 
+//                         Refactored code below
 // class App extends Component {
 //   state = {
 //     good: 0,
